@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/* first section*/
+section{
+    height: 550px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.upore-ja{
+    margin-top: -32px;
+    padding-top: -15px;
+}
+   
+.name-highlight{
+    color: orange;
+}
+
+.half-width{
+    width: 40%;
+    margin: 15px;
+    padding: 20px;
+    float: left;
+}
+
+.half-width img{
+    width: 100%;
+    height: auto;
+    margin-left: 10%;
+    padding-left: 15%;
+}
+.top-background{
+    background-image:url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(0, 102, 255);
+    padding: 15px 45px;
+    color: papayawhip;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    padding-bottom: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+   
+}
+
+
+/*Section two*/
+
+.haf-width{
+    width: 40%;
+    margin: 15px;
+    padding: 20px;
+    float: left;
+}
+.haf-width img{
+    width: 100%;
+    height: auto;
+   
+    
+}
+.moveon{
+    margin-left: 10%;
+    direction: rtl;
+    margin-top: 20px;
+    padding-top: 60px;
+    
+}
+.dream{
+    padding-top: 100px;
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+/* third section*/
+.experience-area{
+    margin-top: 60px;
+    padding-top: 20px;
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.exprnce{
+    width: 40%;
+    float: left;
+    margin: 30px 85px;
+    padding: 40px 100px;
+}
+.card{
+    width: 450px;
+    box-shadow: 10px 10px 40px grey;
+    
+    padding: 25px;
+    background-color: papayawhip;
+}
+h4{
+    color: orangered;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.pullon{
+    margin-left: 5%;
+}
+#pro-label{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, red);
+    border-image-slice: 1;
+}
+
+#baby-label{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+.ffancy{
+    color: darkblue;
+    margin-left: 20px;
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 35px;
+   text-shadow: 10px 10px 20px lightcyan;
+}
+.footer{
+    margin-top: 60px;
+    width: 100%;
+    height: 70px;
+    background-image: linear-gradient(90deg, blue, cyan);
+    border-radius: 30px 30px 0 0;
+    box-shadow: 10px 15px 50px blue;
+}
+.footer p{
+    text-align: center;
+    padding-top: 25px;
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 12px;
+}
